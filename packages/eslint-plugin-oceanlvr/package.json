@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-oceanlvr",
-  "version": "0.19.8",
+  "version": "0.19.5",
   "license": "MIT",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",

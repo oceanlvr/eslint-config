@@ -1,6 +1,6 @@
 {
   "name": "@oceanlvr/eslint-config-monorepo",
-  "version": "0.19.8",
+  "version": "0.19.5",
   "private": true,
   "license": "MIT",
   "author": "oceanlvr <657531018@qq.com> (https://github.com/oceanlvr/)",
