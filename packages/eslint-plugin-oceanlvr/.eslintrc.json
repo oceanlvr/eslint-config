@@ -1,0 +1,9 @@
+{
+  "extends": "@oceanlvr",
+  "plugins": [
+    "oceanlvr"
+  ],
+  "rules": {
+    // "antfu/no-leading-newline": "error"
+  }
+}

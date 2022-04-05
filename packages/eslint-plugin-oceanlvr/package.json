@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-antfu",
+  "name": "eslint-plugin-oceanlvr",
   "version": "0.19.4",
   "license": "MIT",
   "main": "./dist/index.cjs",
