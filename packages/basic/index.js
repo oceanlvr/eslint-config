@@ -32,7 +32,7 @@ module.exports = {
   plugins: [
     'html',
     'unicorn',
-    // 'antfu',
+    'oceanlvr', // customer plugin
   ],
   settings: {
     'import/resolver': {

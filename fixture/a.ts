@@ -4,3 +4,4 @@ export const a: string = 1
 export interface Foo {
   a: string
 }
+export type A = String

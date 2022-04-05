@@ -1,8 +1,4 @@
 module.exports = {
-  env: {
-    browser: true,
-    node: false,
-  },
   overrides: [
     {
       files: ['*.vue'],
@@ -17,7 +13,7 @@ module.exports = {
       },
     },
   ],
-  extends: ['plugin:vue/vue3-recommended'],
+  extends: ['plugin:vue/vue3-recommended', '@oceanlvr/eslint-config-ts'],
   rules: {
     'vue/max-attributes-per-line': 'off',
     'vue/no-v-html': 'off',

@@ -9,7 +9,7 @@ on:
 jobs:
   lint:
     runs-on: ubuntu-latest
-    name: 'Lint'
+    name: Lint
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2

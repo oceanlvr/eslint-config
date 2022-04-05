@@ -1,6 +1,6 @@
 {
   "name": "@oceanlvr/eslint-config-basic",
-  "version": "0.19.5",
+  "version": "0.19.6",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -16,13 +16,13 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "eslint-plugin-oceanlvr": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-jsonc": "^2.2.1",
     "eslint-plugin-markdown": "^2.2.1",
     "eslint-plugin-n": "^15.1.0",
+    "eslint-plugin-oceanlvr": "workspace:*",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-unicorn": "^41.0.1",
     "eslint-plugin-yml": "^0.14.0",
