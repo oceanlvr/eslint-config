@@ -1,10 +1,10 @@
 {
-  "name": "@antfu/eslint-config-basic",
-  "version": "0.23.1",
+  "name": "@oceanlvr/eslint-config-basic",
+  "version": "0.23.0",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
+  "author": "oceanlvr <657531018@qq.com> (https://github.com/oceanlvr/)",
   "main": "index.js",
   "files": [
     "*.js"
@@ -16,7 +16,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "eslint-plugin-antfu": "workspace:*",
+    "eslint-plugin-oceanlvr": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
     "eslint-plugin-import": "^2.26.0",
